@@ -11,6 +11,9 @@ The repository also includes an installation utility so the skill can be copied 
 ### README.md
 - Explains what the project is, how to install it, and how to use it.
 
+### README.zh-CN.md
+- Provides a Chinese version of the repository overview, installation guide, and usage instructions.
+
 ### skill/implementation-explainer/SKILL.md
 - Defines the trigger metadata and the main operational rules for the skill.
 

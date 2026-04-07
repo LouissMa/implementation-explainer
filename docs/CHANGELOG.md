@@ -76,3 +76,26 @@
 ### Impact
 - The repository now has a clearer path from local development to public GitHub release.
 - Contributors can run one validation script and one checklist before publishing changes.
+
+## [2026-04-07]
+
+### Added
+- README.zh-CN.md
+
+### Modified
+- README.md
+- docs/ARCHITECTURE.md
+- docs/CHANGELOG.md
+
+### Explanation
+- Added a standalone Chinese README for users who prefer Chinese documentation.
+- Updated the English README to include a language switch link and show the new repository file in the layout.
+- Updated the architecture and changelog documents to reflect the new documentation file.
+
+### Reasoning
+- A bilingual open-source project is easier to understand and adopt across a wider developer audience.
+- Keeping the Chinese version as a separate file avoids mixing two languages into one long README and keeps each document easier to read.
+
+### Impact
+- Chinese-speaking users can now understand the project and installation flow directly from repository documentation.
+- The repository now has clearer multilingual documentation support.

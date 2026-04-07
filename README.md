@@ -1,5 +1,7 @@
 # Implementation Explainer Skill
 
+[中文](README.zh-CN.md)
+
 An open-source AI engineering skill package that turns code changes into three outputs:
 
 1. implementation
@@ -23,6 +25,7 @@ When the skill is used, the AI assistant should:
 ```text
 implementation-explainer/
 |-- README.md
+|-- README.zh-CN.md
 |-- LICENSE
 |-- .gitignore
 |-- skill/
